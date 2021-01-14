@@ -1,15 +1,18 @@
 # Habtamu Kabeto
-
 habtak@uw.edu
-
-http://www.example.com
-
 www.linkedin.com/in/habtamu-kabeto
+![Habtish](/assets/Habtish.PNG)
 
 # Summary
 
-I believe I am the most qualified for the job because I have completed 3 years in this field. I am dependable and goal-oriented, and I work well in teams.
-# Work Experience (only last 10 years)
+> I believe I am the most qualified for the job because I have completed 3 years in this field. I am dependable and goal-oriented, and I work well in teams.
+- Language: Amharic (Native), Afan Oromo (Fluent), English (Fluent)
+- Effective leadership, high level of self motivation, and communication skills as demonstrated through different leadership positions
+- Proficient in Microsoft Word, Excel and PowerPoint
+
+
+
+# Work Experience
 ## BestBuy,
 Certified Sony Home Theater Specialist 10/2020 - Present
 - Engage with customers for consultations in-store, over the phone, and online chat.
@@ -28,45 +31,8 @@ Salesforce System Administrator Intern 06/ 2019 - 10/ 2019
 - Workbench: basic knowledge of SOQL query and bulk update data
 - Basic lightning knowledge: flow, app creation, lightning record pages
 
-
+# Education
 ## University of Washington Seattle Campus
-
-* [University 1 ][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+> BACHELOR OF ARTS
+Geography with Data Science Option
+* [University of Washington ](https://www.washington.edu) is a public research university in Seattle, Washington, United States. Founded in 1861, Washington is one of the oldest universities on the West Coast; it was established in downtown Seattle approximately a decade after the city's founding to aid its economic development.
