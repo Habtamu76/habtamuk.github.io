@@ -38,5 +38,7 @@ Salesforce System Administrator Intern 06/ 2019 - 10/ 2019
 # Education
 ## University of Washington Seattle Campus
 > BACHELOR OF ARTS
+
 Geography with Data Science Option
+
 * [University of Washington ](https://www.washington.edu) is a public research university in Seattle, Washington, United States. Founded in 1861, Washington is one of the oldest universities on the West Coast; it was established in downtown Seattle approximately a decade after the city's founding to aid its economic development.
