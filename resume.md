@@ -1,5 +1,6 @@
 # Habtamu Kabeto
 habtak@uw.edu
+
 www.linkedin.com/in/habtamu-kabeto
 ![Habtish](/assets/Habtish.PNG)
 
@@ -19,7 +20,7 @@ Certified Sony Home Theater Specialist 10/2020 - Present
 - Build relationships and provide solutions to customers needs.
 - Coach and train coworkers on new vendor technology and services
 
-##Chess Scholars
+## Chess Scholars
 Afterschool Enrichment 01/ 2020 - 03/2020
 - Organize materials and prepare for lessons of the day
 - Communicate with elementary students to explain and help with tasks
