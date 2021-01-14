@@ -1,7 +1,8 @@
 # Habtamu Kabeto
 habtak@uw.edu
 
-www.linkedin.com/in/habtamu-kabeto
+[Linkedin](https://www.linkedin.com/in/habtamu-kabeto)
+
 ![Habtish](/assets/Habtish.PNG)
 
 # Summary
@@ -21,10 +22,12 @@ Certified Sony Home Theater Specialist 10/2020 - Present
 - Coach and train coworkers on new vendor technology and services
 
 ## Chess Scholars
+
 Afterschool Enrichment 01/ 2020 - 03/2020
 - Organize materials and prepare for lessons of the day
 - Communicate with elementary students to explain and help with tasks
 - Make sure students follow instructions
+
 ## Expedia Group
 Salesforce System Administrator Intern 06/ 2019 - 10/ 2019
 - Effectively closing  25+ cases a week meeting SLAs: new user creation, deactivation, reactivation, and password resets
