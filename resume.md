@@ -15,7 +15,7 @@ habtak@uw.edu
 
 
 # Work Experience
-## BestBuy,
+## BestBuy
 Certified Sony Home Theater Specialist 10/2020 - Present
 - Engage with customers for consultations in-store, over the phone, and online chat.
 - Build relationships and provide solutions to customers needs.
